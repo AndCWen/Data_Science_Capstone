@@ -12,5 +12,5 @@ The course this project is from is the IBM Data Science Professional Certificate
 In this step, I use 2 different methods to collect SpaceX data relevant to this project. 
 ### Lab 1  - [Collect Data from SpaceX API](https://github.com/AndCWen/Data_Science_Capstone/blob/main/DataCollectionAndCleaning.ipynb)
 In this lab, I gather data from SpaceX API.
-### Lab 2 - [Collect Data Using Web Scraping](https://github.com/AndCWen/Data_Science_Capstone/blob/main/Webscraping_DataCollection.ipynb)
+### Lab 2 - [Collect Data Using Web Scraping](https://github.com/AndCWen/Data_Science_Capstone/blob/main/Data_Collection_WebScraping.ipynb)
 In this lab, I gather data about Falcon 9 and Falcon Heavy launches from Wikipedia using web scraping techniques, create a dataframe from the data, and then export it to a csv for use later. 
