@@ -16,6 +16,6 @@ In this lab, I gather data from SpaceX API.
 In this lab, I gather data about Falcon 9 and Falcon Heavy launches from Wikipedia using web scraping techniques, create a dataframe from the data, and then export it to a csv for use later. 
 
 # Step 1 - Data Wrangling
-### Lab 3 [Data Wrangling](https://github.com/AndCWen/Data_Science_Capstone/blob/main/Data_Wrangling.ipynb)
+### Lab 3 - [Data Wrangling](https://github.com/AndCWen/Data_Science_Capstone/blob/main/Data_Wrangling.ipynb)
 In this step, I do some Exploratory Data Analysis to observe any patterns in the data. I also create a landing outcome label based on the Outcome column which makes it easier to identify a successful landing or a unsuccessful landing by assinging a 1 to success or a 0 to a faiure. This will come in handy later. 
 
