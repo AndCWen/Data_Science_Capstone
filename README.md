@@ -20,7 +20,7 @@ In this lab, I gather data about Falcon 9 and Falcon Heavy launches from Wikiped
 In this step, I do some Exploratory Data Analysis to observe any patterns in the data. I also create a landing outcome label based on the Outcome column which makes it easier to identify a successful landing or a unsuccessful landing by assinging a 1 to success or a 0 to a faiure. This will come in handy later. 
 
 # Step 3 - Additional Exploratory Analysis
-### Lab 4 - 
+### Lab 4 - [SQL Data Exploration](https://github.com/AndCWen/Data_Science_Capstone/blob/main/SQLLite_Data_Exploration.ipynb)
 In this lab, I utilize SQL Lite to explore the data further. Some key pieces I take a look at include the date of the first successful ground pad landing, names of boosters with successful drone ship landings, the total number of each landing outcomes, and the names of boosters that have carried the maximum payload mass. This is all information that is both interesting and provides me some additional insight into the data as I begin to consider what features I should investigate further. 
 
 ### Lab 5 - 
