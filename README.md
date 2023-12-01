@@ -26,4 +26,5 @@ In this lab, I utilize SQLite to explore the data further. Some key pieces I tak
 ### Lab 5 - [Exploring and Visualizing Data](https://github.com/AndCWen/Data_Science_Capstone/blob/main/Explore_and_Visualize_Data.ipynb)
 In this lab, I create visualizations to further explore the data. During the exploration, I determine whether the data can be used to automatically determine if the Falcon 9's first stage will land, and if so, which features are most relevant for this prediction. The features that can be used to determine whether the first stage can be used will be utilized with machine learning to predict if the first stage can land succesfully. I then prepare the data for a machine learning model, such as converting categorical variables. 
 ![image](https://github.com/AndCWen/Data_Science_Capstone/assets/132102517/89bfc087-1741-4059-85d3-cf0c3f9dfe73)
-![image](https://github.com/AndCWen/Data_Science_Capstone/assets/132102517/82bd5be8-f373-4288-b888-84807fe9977e)
+![image](https://github.com/AndCWen/Data_Science_Capstone/assets/132102517/af37ef88-5fe2-453c-8797-76bf58696d64)
+
