@@ -28,5 +28,9 @@ In this lab, I create visualizations to further explore the data. During the exp
 ![image](https://github.com/AndCWen/Data_Science_Capstone/assets/132102517/89bfc087-1741-4059-85d3-cf0c3f9dfe73)
 ![image](https://github.com/AndCWen/Data_Science_Capstone/assets/132102517/af37ef88-5fe2-453c-8797-76bf58696d64)
 
-### Lab 6 - Building an Interactive Dashboard 
-In this lab, I utilize plotly to build an interactive dashboard to view the success rates and payload of each of the launch sites. 
+### Lab 6 - [Building an Interactive Dashboard](https://github.com/AndCWen/Data_Science_Capstone/blob/main/Dashboard_Building.py)
+In this lab, I utilize plotly to build an interactive dashboard to view the success rates and payload of each of the launch sites.  Below are some screenshots of the visualizations included in the dashboard:
+![Dashboard1](https://github.com/AndCWen/Data_Science_Capstone/assets/132102517/7c595db4-7b8f-491d-b08f-4f3aa56019e0)
+![Dashboard 2](https://github.com/AndCWen/Data_Science_Capstone/assets/132102517/88b95260-1faa-4056-bd2c-18abe7df1a7d)
+
+
