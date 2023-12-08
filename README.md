@@ -29,8 +29,19 @@ In this lab, I create visualizations to further explore the data. During the exp
 ![image](https://github.com/AndCWen/Data_Science_Capstone/assets/132102517/af37ef88-5fe2-453c-8797-76bf58696d64)
 
 ### Lab 6 - [Building an Interactive Dashboard](https://github.com/AndCWen/Data_Science_Capstone/blob/main/Dashboard_Building.py)
-In this lab, I utilize plotly to build an interactive dashboard to view the success rates and payload of each of the launch sites.  Below are some screenshots of the visualizations included in the dashboard:
+In this lab, I utilize plotly to build an interactive dashboard to view the success rates and payload of each of the launch sites.  This would be helpful in exploring the data as well as sharing some of the findings about the data with others in a way that is clear and engaging. Below are some screenshots of the visualizations included in the dashboard:
 ![Dashboard1](https://github.com/AndCWen/Data_Science_Capstone/assets/132102517/7c595db4-7b8f-491d-b08f-4f3aa56019e0)
 ![Dashboard 2](https://github.com/AndCWen/Data_Science_Capstone/assets/132102517/88b95260-1faa-4056-bd2c-18abe7df1a7d)
+
+### Lab 7 - [Machine Learning Predictions](https://github.com/AndCWen/Data_Science_Capstone/blob/main/Machine_Learning_Prediction.ipynb)
+In this lab I used several different models to see if we could predict whether the land will be a success or not, then created confusion matricies to visualize the accuracy of these models. The models used were logistic regression, support vector machine, decision tree, and k nearest neighbor. I found that the decision tree had the worst accuracy and the other 3 were tied. Below are some screenshots of the matricies created:
+
+![image](https://github.com/AndCWen/Data_Science_Capstone/assets/132102517/e8062b9e-52dd-4155-b0d5-64e53ecb5472)
+This is the matrix resulting from the decision tree model. We see 12 are correctly categorized. There were 4 false positives and 2 false negatives. 
+
+![image](https://github.com/AndCWen/Data_Science_Capstone/assets/132102517/cd13365e-27f6-4dfe-97f1-debfa1aec98f)
+This is the matrix resulting from the k nearest neighbor model. We see 15 are correctly categorized. There were 3 false positives and no false negatives.
+
+
 
 
