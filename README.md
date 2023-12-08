@@ -34,7 +34,7 @@ In this lab, I utilize plotly to build an interactive dashboard to view the succ
 ![Dashboard 2](https://github.com/AndCWen/Data_Science_Capstone/assets/132102517/88b95260-1faa-4056-bd2c-18abe7df1a7d)
 
 ### Lab 7 - [Machine Learning Predictions](https://github.com/AndCWen/Data_Science_Capstone/blob/main/Machine_Learning_Prediction.ipynb)
-In this lab I used several different models to see if we could predict whether the land will be a success or not, then created confusion matricies to visualize the accuracy of these models. The models used were logistic regression, support vector machine, decision tree, and k nearest neighbor. I found that the decision tree had the worst accuracy and the other 3 were tied. Below are some screenshots of the matricies created:
+In this lab I used several different models to see if we could predict whether the land will be a success or not, then created confusion matricies to visualize the accuracy of these models. This process included steps to standardize the data, split the data into training and testing sets, and finding the best hyperparameters for each model. The models used were logistic regression, support vector machine, decision tree, and k nearest neighbor. I found that the decision tree had the worst accuracy and the other 3 were tied. Below are some screenshots of the matricies created:
 
 ![image](https://github.com/AndCWen/Data_Science_Capstone/assets/132102517/e8062b9e-52dd-4155-b0d5-64e53ecb5472)
 
