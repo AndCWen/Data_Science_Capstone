@@ -37,9 +37,11 @@ In this lab, I utilize plotly to build an interactive dashboard to view the succ
 In this lab I used several different models to see if we could predict whether the land will be a success or not, then created confusion matricies to visualize the accuracy of these models. The models used were logistic regression, support vector machine, decision tree, and k nearest neighbor. I found that the decision tree had the worst accuracy and the other 3 were tied. Below are some screenshots of the matricies created:
 
 ![image](https://github.com/AndCWen/Data_Science_Capstone/assets/132102517/e8062b9e-52dd-4155-b0d5-64e53ecb5472)
+
 This is the matrix resulting from the decision tree model. We see 12 are correctly categorized. There were 4 false positives and 2 false negatives. 
 
 ![image](https://github.com/AndCWen/Data_Science_Capstone/assets/132102517/cd13365e-27f6-4dfe-97f1-debfa1aec98f)
+
 This is the matrix resulting from the k nearest neighbor model. We see 15 are correctly categorized. There were 3 false positives and no false negatives.
 
 
