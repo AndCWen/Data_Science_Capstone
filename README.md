@@ -33,16 +33,22 @@ In this lab, I utilize plotly to build an interactive dashboard to view the succ
 ![Dashboard1](https://github.com/AndCWen/Data_Science_Capstone/assets/132102517/7c595db4-7b8f-491d-b08f-4f3aa56019e0)
 ![Dashboard 2](https://github.com/AndCWen/Data_Science_Capstone/assets/132102517/88b95260-1faa-4056-bd2c-18abe7df1a7d)
 
-### Lab 7 - [Machine Learning Predictions](https://github.com/AndCWen/Data_Science_Capstone/blob/main/Machine_Learning_Prediction.ipynb)
+### Lab 7 - [Machine Learning Predictions](https://github.com/AndCWen/Data_Science_Capstone/blob/main/Machine_Learning_Predictions.ipynb)
 In this lab I used several different models to see if we could predict whether the land will be a success or not, then created confusion matricies to visualize the accuracy of these models. This process included steps to standardize the data, split the data into training and testing sets, and finding the best hyperparameters for each model. The models used were logistic regression, support vector machine, decision tree, and k nearest neighbor. I found that the decision tree had the worst accuracy and the other 3 were tied. Below are some screenshots of the matricies created:
 
-![image](https://github.com/AndCWen/Data_Science_Capstone/assets/132102517/e8062b9e-52dd-4155-b0d5-64e53ecb5472)
+![image](https://github.com/AndCWen/Data_Science_Capstone/assets/132102517/226f4dd1-20b9-4a39-ba13-20e0a9838307)
 
-This is the matrix resulting from the decision tree model. We see 12 are correctly categorized. There were 4 false positives and 2 false negatives. 
+This is the matrix resulting from the decision tree model. We see 16 are correctly categorized. There was 1 false positive and 1 false negative.
 
 ![image](https://github.com/AndCWen/Data_Science_Capstone/assets/132102517/cd13365e-27f6-4dfe-97f1-debfa1aec98f)
 
 This is the matrix resulting from the k nearest neighbor model. We see 15 are correctly categorized. There were 3 false positives and no false negatives.
+
+![image](https://github.com/AndCWen/Data_Science_Capstone/assets/132102517/1303a34b-cd3e-4684-b6d0-53428b24a801)
+
+We see here that the decision tree model outperformed the other models.
+
+
 
 
 
