@@ -49,7 +49,9 @@ This is the matrix resulting from the k nearest neighbor model. We see 15 are co
 
 We see here that the decision tree model outperformed the other models.
 
-# Step 5 - Present Your Findings
+# Step 5 - Present Your Findings 
+
+[Capstone Project Presentation](https://github.com/AndCWen/Data_Science_Capstone/blob/main/Andrea_W_DataScience_Capstone%20Project.pdf)
 
 Here I created a powerpoint presentation explaining this project and my findings. This presentation is more in-depth than what would typically be given to a leadership team, particularly the detail about the methodology and processes behind the analysis, but for the purpose of this capstone project, it was necessary to provide a deep dive into each step of the process. You can view the final presentation below.
 
