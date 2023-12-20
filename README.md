@@ -33,6 +33,7 @@ In this lab, I utilize plotly to build an interactive dashboard to view the succ
 ![Dashboard1](https://github.com/AndCWen/Data_Science_Capstone/assets/132102517/7c595db4-7b8f-491d-b08f-4f3aa56019e0)
 ![Dashboard 2](https://github.com/AndCWen/Data_Science_Capstone/assets/132102517/88b95260-1faa-4056-bd2c-18abe7df1a7d)
 
+# Step 4 - Predictive Analysis
 ### Lab 7 - [Machine Learning Predictions](https://github.com/AndCWen/Data_Science_Capstone/blob/main/Machine_Learning_Predictions.ipynb)
 In this lab I used several different models to see if we could predict whether the land will be a success or not, then created confusion matricies to visualize the accuracy of these models. This process included steps to standardize the data, split the data into training and testing sets, and finding the best hyperparameters for each model. The models used were logistic regression, support vector machine, decision tree, and k nearest neighbor. I found that the decision tree had the worst accuracy and the other 3 were tied. Below are some screenshots of the matricies created:
 
@@ -47,6 +48,11 @@ This is the matrix resulting from the k nearest neighbor model. We see 15 are co
 ![image](https://github.com/AndCWen/Data_Science_Capstone/assets/132102517/1303a34b-cd3e-4684-b6d0-53428b24a801)
 
 We see here that the decision tree model outperformed the other models.
+
+# Step 5 - Present Your Findings
+
+Here I created a powerpoint presentation explaining this project and my findings. This presentation is more in-depth than what would typically be given to a leadership team, particularly the detail about the methodology and processes behind the analysis, but for the purpose of this capstone project, it was necessary to provide a deep dive into each step of the process. You can view the final presentation below.
+
 
 
 
