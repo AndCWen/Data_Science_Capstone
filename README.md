@@ -57,8 +57,8 @@ Here I created a powerpoint presentation explaining this project and my findings
 
 
 
+![image](https://github.com/AndCWen/Data_Science_Capstone/assets/132102517/3c952b07-f174-452d-9fcb-4f1395e0e6eb)
 
-[IBM_Data_Science.pdf](https://github.com/AndCWen/Data_Science_Capstone/files/13760517/IBM_Data_Science.pdf)
 
 
 
