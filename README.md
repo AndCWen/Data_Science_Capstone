@@ -53,9 +53,12 @@ We see here that the decision tree model outperformed the other models.
 
 [Capstone Project Presentation](https://github.com/AndCWen/Data_Science_Capstone/blob/main/Andrea_W_DataScience_Capstone%20Project.pdf)
 
-Here I created a powerpoint presentation explaining this project and my findings. This presentation is more in-depth than what would typically be given to a leadership team, particularly the detail about the methodology and processes behind the analysis, but for the purpose of this capstone project, it was necessary to provide a deep dive into each step of the process. You can view the final presentation below.
+Here I created a powerpoint presentation explaining this project and my findings. This presentation goes into detail of the methodology behind this project. For the purpose of this capstone project, it was necessary to provide a deep dive into each step of the process. You can view the final presentation in the link above.
 
 
+
+
+[IBM_Data_Science.pdf](https://github.com/AndCWen/Data_Science_Capstone/files/13760517/IBM_Data_Science.pdf)
 
 
 
